@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyTec(CSE) App</string>
+    <string-array name="Batch">
+        <item>Batch - 01</item>
+        <item>Batch - 02</item>
+        <item>Batch - 03</item>
+        <item>Batch - 04</item>
+        <item>Batch - 05</item>
+        <item>Batch - 06</item>
+        <item>Batch - 07</item>
+        <item>Batch - 08</item>
+        <item>Batch - 09</item>
+        <item>Batch - 10</item>
+        <item>Batch - 11</item>
+        <item>Batch - 12</item>
+        <item>Batch - 13</item>
+        <item>Batch - 14</item>
+        <item>Batch - 15</item>
+
+    </string-array>
+
+
+</resources>
